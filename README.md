@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @crz81
+- 👋 Hi, I’m @crz
 - 
 - 🌱 I’m currently interrested in Osint and computer networks ^^ 
 - 📫 How to reach me / find me on IRC (hackint) oder just write here
