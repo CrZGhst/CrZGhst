@@ -1,9 +1,45 @@
-- 👋 Hi, I’m @crz
-- 
-- 🌱 I’m currently interrested in Osint and computer networks ^^ 
-- 📫 How to reach me / find me on IRC (hackint) oder just write here
+# Hey, I'm CrZ 👋
 
-<!---
-crz81/crz81 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+```
+  ██████╗██████╗ ███████╗ ██████╗ ██╗  ██╗███████╗████████╗
+ ██╔════╝██╔══██╗╚══███╔╝██╔════╝ ██║  ██║██╔════╝╚══██╔══╝
+ ██║     ██████╔╝  ███╔╝ ██║  ███╗███████║███████╗   ██║   
+ ██║     ██╔══██╗ ███╔╝  ██║   ██║██╔══██║╚════██║   ██║   
+ ╚██████╗██║  ██║███████╗╚██████╔╝██║  ██║███████║   ██║   
+  ╚═════╝╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝   ╚═╝  
+```
+
+> *"."*
+
+---
+
+## 🕵️ About Me
+
+- 🌱 Deep diving into **OSINT** & **computer networks**
+- 🔭 Exploring how data flows — and how to find what others miss
+- 📡 You can find me on **IRC** → `hackint` as `crz`
+- 💬 Feel free to open an issue or just write here
+
+---
+
+```
+  Focus Areas
+  ───────────────────────────────────────
+  ✦ Open Source Intelligence (OSINT)
+  ✦ Network Analysis & Mapping
+  ✦ Protocol Research
+  ✦ Digital Footprint Investigation
+```
+
+---
+
+## 📬 Reach Me
+
+| Platform | Handle |
+|----------|--------|
+| GitHub   | [@CrZGhst](https://github.com/CrZGhst) |
+| IRC      | `crz` on `irc.hackint.org` |
+
+---
+
+<sub>👁️ Watching the network, one packet at a time.</sub>
